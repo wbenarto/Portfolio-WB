@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-wb",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website ",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbenarto/Portfolio-WB.git"
+  },
+  "author": "William Benarto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbenarto/Portfolio-WB/issues"
+  },
+  "homepage": "https://github.com/wbenarto/Portfolio-WB#readme",
+  "dependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
