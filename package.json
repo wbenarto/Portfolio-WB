@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wbenarto/Portfolio-WB.git"
+    "url": "git+https://github.com/wbenarto/mywebsite.git"
   },
   "author": "William Benarto",
   "license": "ISC",
   "homepage": "https://wbenarto.github.io/mywebsite/",
   "bugs": {
-    "url": "https://github.com/wbenarto/Portfolio-WB/issues"
+    "url": "https://github.com/wbenarto/mywebsite/issues"
   },
   "dependencies": {
     "gh-pages": "^2.0.1",
