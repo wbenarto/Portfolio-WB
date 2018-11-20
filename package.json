@@ -2,18 +2,18 @@
   "name": "mywebsite",
   "version": "1.0.0",
   "description": "Responsive portfolio website ",
-  "main": "index.html",
+  "main": "index.js",
     "scripts": {
     "sass": "node-sass -w scss/ -o dist/css --recursive",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wbenarto/mywebsite.git"
+    "url": "git+https://github.com/wbenarto/mywebsite.com"
   },
   "author": "William Benarto",
   "license": "ISC",
-  "homepage": "https://wbenarto.github.io/mywebsite/",
+  "homepage": "https://wbenarto.github.io/mywebsite",
   "bugs": {
     "url": "https://github.com/wbenarto/mywebsite/issues"
   },
