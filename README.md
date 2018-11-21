@@ -1,7 +1,7 @@
 # Portfolio-WB
 Homework #8 Updated portfolio
 
-Visit my page https://wbenarto.github.io/Portfolio-WB/
+Visit my page https://wbenarto.github.io/Portfolio-WB/index.html
 
 Technology used :
 1.Javascript
